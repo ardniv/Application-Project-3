@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "499495340442",
+    "firebase_url": "https://keamanansepedamotor-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "keamanansepedamotor",
+    "storage_bucket": "keamanansepedamotor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499495340442:android:4082d211b276cc56c9d223",
+        "android_client_info": {
+          "package_name": "com.ap.applicationproject3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuNv0QD22DwTnm906kaHHkuolLOW-6jsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
